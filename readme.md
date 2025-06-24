@@ -1,4 +1,4 @@
-# 📚 Library API Prueba (.NET 6)
+# 📚 Library API Prueba (.NET 8)
 
 Este es un backend en **C# .NET 8**, construido como **API REST** que actúa como un _proxy_ entre el frontend y la API externa [FakeRestAPI](https://fakerestapi.azurewebsites.net/).
 
