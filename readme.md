@@ -42,8 +42,6 @@ Se implementa una arquitectura limpia, separando responsabilidades en:
      dotnet run
 
 
-4. Accede a la API en:
-
 ## 📦 Endpoints disponibles
 
 ### 📘 Libros (`/api/books`)
